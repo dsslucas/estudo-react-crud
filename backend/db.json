@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@emailficticio.com"
-    }, {
-        "id": 2,
-        "name": "Amanda Ferreira",
-        "email": "aferreira@emailficticio.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@emailficticio.com"
+    },
+    {
+      "id": 2,
+      "name": "Amanda Ferreira",
+      "email": "aferreira@emailficticio.com"
+    },
+    {
+      "name": "Ana Silva",
+      "email": "testedemailana@email123.com",
+      "id": 3
+    }
+  ]
 }
