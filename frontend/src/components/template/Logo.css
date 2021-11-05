@@ -1,5 +1,5 @@
 aside.logo{
-    background-color: var(--bg-light);
+    background-color: var(--bg-dark);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,4 +9,5 @@ aside.logo img {
     /*Esquerda e direita*/
     padding: 0px 15px;
     width: 100%;
+
 }

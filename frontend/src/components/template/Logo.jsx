@@ -1,7 +1,7 @@
 import './Logo.css'
 
 //Import da imagem
-import logo from '../../assets/images/logo.png'
+import logo from '../../assets/images/logo-zap.png'
 
 import React from 'react'
 

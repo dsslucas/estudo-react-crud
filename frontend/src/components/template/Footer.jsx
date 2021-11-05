@@ -4,5 +4,7 @@ import React from 'react'
 
 export default props =>
     <footer className="footer">
-        Rodapé
+        <span>
+            Desenvolvido <i className="fa fa-truck text-danger"></i>
+        </span>
     </footer>
