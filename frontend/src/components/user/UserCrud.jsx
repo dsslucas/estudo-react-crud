@@ -9,6 +9,10 @@ const headerProps = {
 
 export default class UserCrud extends Component{
     render(){
-        
+        return (
+            <Main {...headerProps}>
+                Cadastro de usuário
+            </Main>
+        )
     }
 }
